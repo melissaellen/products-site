@@ -7,8 +7,8 @@
 
 
 $host = "localhost";
-$userName = "mdurkinm_410wrt";
-$passWord = "410wrtdatabase";
+$userName = "username";
+$passWord = "password";
 $dataBase = "mdurkinm_gameSite";
 
 $con = mysqli_connect($host, $userName, $passWord, $dataBase);
